@@ -1,3 +1,4 @@
+if ( document.querySelector('.partners__slider') ) {
 var mySwiper = new Swiper('.partners__slider .swiper-container', {
   speed: 400,
   spaceBetween: 30,
@@ -22,3 +23,4 @@ var mySwiper = new Swiper('.partners__slider .swiper-container', {
   }
 }
 });
+}

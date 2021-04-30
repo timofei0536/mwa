@@ -1,3 +1,4 @@
+if ( document.querySelector('[data-toogles]') ) {
 $ (document).ready( function(){
 	
 	window.allow = true;
@@ -38,6 +39,4 @@ $ (document).ready( function(){
 
 	});
 });
-
-
-// document.querySelector('#rates').scrollIntoView();
+}

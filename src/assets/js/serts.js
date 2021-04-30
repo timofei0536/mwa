@@ -1,3 +1,4 @@
+if ( document.querySelector('.serts__slider') ) {
 var mySwiper = new Swiper('.serts__slider .swiper-container', {
   speed: 400,
   autoHeight: true,
@@ -23,3 +24,4 @@ var mySwiper = new Swiper('.serts__slider .swiper-container', {
   }
 }
 });
+}

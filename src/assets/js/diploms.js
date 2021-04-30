@@ -1,3 +1,4 @@
+if ( document.querySelector('.diploms__slider') ) {
 var mySwiper = new Swiper('.diploms__slider .swiper-container', {
     speed: 400,
     autoHeight: true,
@@ -21,3 +22,4 @@ var mySwiper = new Swiper('.diploms__slider .swiper-container', {
   	}
   }
 });
+}
