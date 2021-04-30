@@ -1,10 +1,6 @@
 import './assets/css/vars.scss';
 import './assets/css/normalize.scss';
 import './assets/css/main.scss';
-import './assets/css/page-trans.scss';
-import './assets/css/preloader.scss';
-
-
 
 //BLOCKS SCSS
 import './assets/css/blocks/header.scss';
@@ -30,7 +26,6 @@ import './assets/css/blocks/why.scss';
 import './assets/css/blocks/scheme.scss';
 import './assets/css/blocks/total.scss';
 import './assets/css/blocks/docs.scss';
-import './assets/css/blocks/clients.scss';
 import './assets/css/blocks/popup-form.scss';
 import './assets/css/blocks/sales.scss';
 import './assets/css/blocks/breads.scss';
@@ -38,7 +33,6 @@ import './assets/css/blocks/programm-screen.scss';
 import './assets/css/blocks/prog-features.scss';
 import './assets/css/blocks/prog-text.scss';
 import './assets/css/blocks/quize.scss';
-import './assets/js/quize.js';
 
 
 
@@ -51,7 +45,6 @@ import './assets/css/blocks/pagination.scss';
 import './assets/css/blocks/toogles.scss';
 import './assets/css/blocks/fixed-btn.scss';
 import './assets/css/blocks/payment.scss';
-import './assets/js/payment.js';
 import './assets/css/blocks/form-quize.scss';
 import './assets/css/blocks/content.scss';
 
@@ -66,10 +59,11 @@ import './assets/js/serts.js';
 import './assets/js/diploms.js';
 import './assets/js/fixed-menu.js';
 import './assets/js/toogles.js';
-import './assets/js/clients.js';
 
 import './assets/js/mobile-menu';
 import './assets/js/anchors';
 import './assets/js/popup';
+import './assets/js/quize.js';
+import './assets/js/payment.js';
 
 
